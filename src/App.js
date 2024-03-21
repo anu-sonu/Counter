@@ -1,10 +1,11 @@
 import React from 'react'
-import Coun from './components/Coun'
+import Eff from './components/Eff'
+
 
 const App = () => {
   return (
     <div>
-      <Coun/>
+     <Eff/> 
     </div>
   )
 }
